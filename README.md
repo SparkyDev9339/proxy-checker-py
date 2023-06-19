@@ -1,7 +1,8 @@
 # proxy-checker-py
 
 # run 
-__`python main.py`__
+upload your proxeies
+__`python3 main.py`__
 
 # proxy_list structure
 proxy_list.txt должен состоять
