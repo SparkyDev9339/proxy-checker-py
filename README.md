@@ -1,4 +1,6 @@
 # proxy-checker-py
+
+# proxy_list structure
 proxy_list.txt должен состоять
-\nip:port
-\nip:port
+ip:port
+ip:port
